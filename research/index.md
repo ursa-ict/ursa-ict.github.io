@@ -5,7 +5,8 @@ Our team is mainly committed to cutting-edge research in information security, i
 
 Here are some themes and techniques that we currently work on:
 
-![Research](/research/framework.webp)
+![Research]({{ "research/framework.webp" | relURL }})
+
 
 ## Applied Cryptography
 
