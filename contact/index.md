@@ -2,6 +2,5 @@
 
 
 ## Location
-Room 610, Building B, Information Technology Research and Teaching Building, Chongqing University Huxi Campus, No. 55, Daxuecheng W Rd, Shapingba District, Chongqing, China.
-
-![Contact](/contact/map.png)
+Building 1, Institute of Computing Technology, Chinese Academy of Sciences, No. 158 Beiqing Road, Haidian District, Beijing
+<!-- ![Contact](/contact/map.png) -->
